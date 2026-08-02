@@ -18,15 +18,34 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech stack
+
+---
 
 **Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Frameworks / Tools**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Languages](https://skillicons.dev/icons?i=js,ts)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,sass,vite,figma)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,supabase)
+
+**Databases**
+
+![Databases](https://skillicons.dev/icons?i=postgres,redis)
+
+**DevOps**
+
+![DevOps](https://skillicons.dev/icons?i=docker,githubactions,azure)
+
+**Work environment**
+
+![Work](https://skillicons.dev/icons?i=vscode,git,github)
+![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=white)
 
 ---
 
