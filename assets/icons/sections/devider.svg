@@ -1,0 +1,35 @@
+<svg width="900" height="30" viewBox="0 0 900 30" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="fadeLeft" gradientUnits="userSpaceOnUse" x1="0" y1="15" x2="420" y2="15">
+      <stop offset="0%" stop-color="#C8A15A" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#C8A15A" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="fadeRight" gradientUnits="userSpaceOnUse" x1="480" y1="15" x2="900" y2="15">
+      <stop offset="0%" stop-color="#C8A15A" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#C8A15A" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" filterUnits="userSpaceOnUse" x="-10" y="-10" width="920" height="50">
+      <feGaussianBlur stdDeviation="1.0" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <line x1="0" y1="15" x2="420" y2="15" stroke="url(#fadeLeft)" stroke-width="1.5" filter="url(#glow)"/>
+
+  <text x="450"
+        y="20"
+        text-anchor="middle"
+        fill="#B89CFF"
+        font-family="Cinzel, Georgia, serif"
+        font-size="18"
+        filter="url(#glow)">
+    ✦
+  </text>
+
+  <line x1="480" y1="15" x2="900" y2="15" stroke="url(#fadeRight)" stroke-width="1.5" filter="url(#glow)"/>
+
+</svg>
