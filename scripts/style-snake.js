@@ -16,11 +16,20 @@
  */
 
 const fs = require("fs");
+const path = require("path");
 
-const CHARACTER_URL =
-  "https://raw.githubusercontent.com/Vitaliy-Rymarchuk-01/" +
-  "Vitaliy-Rymarchuk-01/main/assets/icons/" +
-  "f6d34682c3e5ff2863b15dbb0d043f6d_8319818152811527332.webp";
+const CHARACTER_PATH = path.join(
+  __dirname,
+  "..",
+  "assets",
+  "icons",
+  "f6d34682c3e5ff2863b15dbb0d043f6d_8319818152811527332.webp"
+);
+
+function characterDataUri() {
+  const bytes = fs.readFileSync(CHARACTER_PATH);
+  return `data:image/webp;base64,${bytes.toString("base64")}`;
+}
 
 const STAR_PATH =
   "M6 0C6 3 6.5 5.5 12 6C6.5 6.5 6 9 6 12" +
@@ -96,7 +105,7 @@ function replaceSnakeBodyWithCharacter(svg) {
     /<rect class="s s0"[^/]*\/><rect class="s s1"[^/]*\/><rect class="s s2"[^/]*\/><rect class="s s3"[^/]*\/>/;
   const character =
     `<image class="s s0" x="-7" y="-7" width="30" height="30" ` +
-    `href="${CHARACTER_URL}" preserveAspectRatio="xMidYMid slice"/>`;
+    `href="${characterDataUri()}" preserveAspectRatio="xMidYMid slice"/>`;
   if (!bodyPattern.test(svg)) {
     console.warn(
       "style-snake: snake body rects not found, skipping character swap"
