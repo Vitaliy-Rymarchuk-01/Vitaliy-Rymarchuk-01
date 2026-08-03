@@ -47,6 +47,10 @@
 
 <img height="180em" src="https://github-readme-stats-omega-taupe-77.vercel.app/api/top-langs/?username=Vitaliy-Rymarchuk-01&layout=compact&hide_border=false&bg_color=00000000&title_color=E6C87A&text_color=D8D8D8&border_color=5A4A2D"/>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vitaliy-Rymarchuk-01/Vitaliy-Rymarchuk-01/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
 </div>
 
 <img src="assets/icons/sections/projects.svg" width="100%" alt="Featured Projects"/>
