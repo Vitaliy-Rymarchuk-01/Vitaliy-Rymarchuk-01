@@ -3,24 +3,16 @@
 <!-- Banner -->
 ![Banner](assets/banner.png)
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=440&lines=Hi+there%2C+I'm+YourName;Backend+Developer;Genshin+Impact+Enjoyer+%E2%9A%94%EF%B8%8F)](https://git.io/typing-svg)
-
 </div>
 
----
+<img src="assets/icons/sections/about.svg" width="100%" alt="About Me"/>
 
-### 👋 About me
 - 🔭 Currently working on: ...
 - 🌱 Currently learning: ...
 - 💬 Ask me about: ...
 - ⚡ Fun fact: ...
 
----
-
-### 🛠️ Tech stack
-
----
+<img src="assets/icons/sections/tech.svg" width="100%" alt="Tech Stack"/>
 
 **Languages**
 
@@ -47,9 +39,7 @@
 ![Work](https://skillicons.dev/icons?i=vscode,git,github)
 ![Ghostty](https://img.shields.io/badge/Ghostty-000000?style=for-the-badge&logo=ghostty&logoColor=white)
 
----
-
-### 📊 GitHub Stats
+<img src="assets/icons/sections/stats.svg" width="100%" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -59,42 +49,10 @@
 
 </div>
 
----
+<img src="assets/icons/sections/projects.svg" width="100%" alt="Featured Projects"/>
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [Project 1](link) | коротко про проєкт | Python, Docker |
-| [Project 2](link) | коротко про проєкт | React, Node |
-
----
-
-### 🎮 A bit of me outside code
+<img src="assets/icons/sections/contact.svg" width="100%" alt="Connect with me"/>
 
 <div align="center">
-  <img src="посилання_на_genshin_gif" width="200"/>
-  
-  Currently obsessed with: **[персонаж/гра]** ⚔️✨
-</div>
-
-<details>
-<summary>🎲 Random facts</summary>
-<br>
-- факт 1
-- факт 2
-- факт 3
-</details>
-
----
-
-### 📫 Connect with me
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](посилання)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](посилання)
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
 
 </div>
