@@ -43,9 +43,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Vitaliy-Rymarchuk-01show_icons=true&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitaliy-Rymarchuk-01&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy-Rymarchuk-01&layout=compact&theme=radical)
 
 </div>
 
